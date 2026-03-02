@@ -3,6 +3,6 @@ Script to organize roms with many discs into a folder structure in .m3u format f
 
 ## How to use
 - Download the script.
-- Check if the roms folder in the first line match yours room folder.
+- Check if the roms folder, in the first line of the script, matches yours roms folder.
   - It's based on the structure of Emudeck and iterate over the consoles folder inside to check for games filename that have "(Disc X)" in the name.
 - Run the script.
